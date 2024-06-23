@@ -1,0 +1,155 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: roboto;
+}
+
+a{
+  text-decoration: none;
+  color: #003366;
+}
+
+a:active{
+  text-decoration: none;
+  color: #003366;
+}
+
+.header{
+  font-family: bebas neue;
+  margin-top: 50px;
+  margin-left: 100px;
+  font-weight: 600;
+  color:  #003366;
+  width: 100px;
+  font-size: 50px;
+  line-height: 45px;
+  cursor: pointer;
+}
+
+.sub-title{
+  margin-left: 100px;
+  font-weight: 600;
+  color:  #003366;
+  letter-spacing: 5.2px;
+  margin-bottom: -75px;
+}
+
+.EN{
+  margin-left: 310px;
+  font-weight: 1000;
+  color:  #003366;
+  letter-spacing: 5.2px;
+  font-size: 20px;
+  margin-bottom: -33px;
+  cursor: pointer;
+}
+
+.home{
+  margin-left: 1200px;
+  font-weight: 1000;
+  color:  #003366;
+  font-size: 20px;
+  margin-top: -25px;
+  cursor: pointer;
+}
+
+.heroes{
+  margin-left: 50px;
+}
+
+.builds{
+  margin-left: 50px;
+  
+}
+
+.mobile-legends{
+  
+  margin-left: 100px;
+  margin-top: 220px;
+  font-family: Roboto;
+  font-size: 50px;
+  color:#003366;
+  font-weight: 900;
+}
+
+.subt{
+  margin-left: 100px;
+  margin-top: -8px;
+  color:#003366;
+  font-weight: 500;
+}
+
+.subtt{
+  margin-left: 100px;
+  margin-top: 30px;
+  color:#003366;
+  width: 800px;
+  line-height: 22px;
+  font-size: 17px;
+}
+
+.dl{
+  margin-left: 100px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  border-style: solid;
+  background-color:#003366;
+  color: white;
+  border-color:#003366;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s, padding 0.15s;
+  font-size: 15px;
+}
+
+.dl:hover{
+  background-color: white;
+  color:#003366;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.15);
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.dl:active{
+  opacity: 0.7;
+}
+
+.lm{
+  margin-left: 5px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  border-style: solid;
+  background-color: white;
+  color:#003366;
+  border-color:#003366;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s, padding 0.15s;
+  font-size: 15px;
+}
+
+.lm:hover{
+  background-color:#003366;
+  color: white;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.15);
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.lm:active{
+  opacity: 0.7;
+}
+
+.foot{
+  margin-left: 100px;
+  margin-top: 150px;
+  color:#003366;
+  font-size: 13px;
+}
+
+.footer{
+  margin-left: 478px;
+  color:#003366;
+}

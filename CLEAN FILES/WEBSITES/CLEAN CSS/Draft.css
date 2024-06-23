@@ -1,0 +1,214 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: roboto;
+}
+
+button{
+  font-family: roboto;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  background-color: rgb(225, 225, 225);
+}
+
+.Title{
+  margin-left: 150px;
+  margin-top: 220px;
+  font-family: Roboto;
+  font-size: 70px;
+  color:	rgb(125, 125, 125);
+  font-weight: 900;
+}
+
+.Sub-title{
+  margin-left: 150px;
+  margin-top: -10px;
+  color:	rgb(125, 125, 125);
+  font-weight: 500;
+}
+
+.Description{
+  margin-left: 150px;
+  margin-top: 30px;
+  color:	rgb(125, 125, 125);
+  width: 800px;
+  line-height: 22px;
+  font-size: 17px;
+}
+
+.Part-2{
+  margin-left: 150px;
+  margin-top: 30px;
+  color:	rgb(125, 125, 125);
+  width: 800px;
+  line-height: 22px;
+  font-size: 17px;
+}
+
+.download{
+  margin-left: 150px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  border-style: solid;
+  background-color: rgb(125, 125, 125);
+  color: rgb(225, 225, 225);
+  border-color: rgb(125, 125, 125);
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s, padding 0.15s;
+  font-size: 15px;
+}
+
+.download:hover{
+  background-color: rgb(225, 225, 225);
+  color: rgb(125, 125, 125);
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.15);
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.download:active{
+  opacity: 0.7;
+}
+
+.resonators{
+  margin-left: 5px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  border-style: solid;
+  background-color: rgb(225, 225, 225);
+  color: rgb(125, 125, 125);
+  border-color: rgb(125, 125, 125);
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, box-shadow 0.15s, padding 0.15s;
+  font-size: 15px;
+}
+
+.resonators:hover{
+  background-color: rgb(125, 125, 125);
+  color: rgb(225, 225, 225);
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.15);
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.resonators:active{
+  opacity: 0.7;
+}
+
+.web-title{
+  margin-left: 150px;
+  margin-top: 40px;
+  width: 125px;
+  text-align: center;
+  font-weight: 600;
+  color: rgb(125, 125, 125);
+  font-size: 23px;
+  cursor: pointer;
+  margin-bottom: -55px;
+}
+
+.Top-up{
+  margin-left: 1270px;
+  margin-bottom: -22px;
+  font-weight: 600;
+  color: rgb(125, 125, 125);
+  font-size: 18px;
+  cursor: pointer;
+  width: 200px;
+}
+
+.Top-up:hover{
+  opacity: 0.7;
+}
+
+
+.regions{
+  margin-left: 1150px;
+  font-weight: 600;
+  color: rgb(125, 125, 125);
+  font-size: 18px;
+  cursor: pointer;
+  margin-bottom: -21px;
+  width: 70px;
+}
+
+.regions:hover{
+  opacity: 0.7;
+}
+
+
+.lore{
+  margin-left: 1056px;
+  font-weight: 600;
+  color: rgb(125, 125, 125);
+  font-size: 18px;
+  cursor: pointer;
+  margin-bottom: -21px;
+  width: 70px;
+}
+
+.lore:hover{
+  opacity: 0.7;
+}
+
+
+.home{
+  margin-left: 955px;
+  font-weight: 600;
+  color: rgb(125, 125, 125);
+  font-size: 18px;
+  cursor: pointer;
+  width: 70px;
+}
+
+.home:hover{
+  opacity: 0.7;
+}
+
+.footer{
+  margin-left: 150px;
+  margin-top: 120px;
+  color: rgb(125, 125, 125);
+  font-size: 13px;
+}
+
+.foot{
+  margin-left: 355px;
+  color: rgb(125, 125, 125);
+}
+
+.activity{
+  margin-left: 150px;
+  margin-top: 30px;
+  color:	rgb(125, 125, 125);
+  width: 350px;
+  line-height: 22px;
+  font-size: 17px;
+  margin-bottom: 8px;
+  text-align: center;
+  font-weight: 700;
+  font-family: montserrat;
+}
+
+.order{
+  margin-bottom: -60px;
+  text-align: center;
+  width: 650px;
+  font-family: montserrat;
+  color: rgb(125, 125, 125);
+  font-weight: 500;
+}
+
+.delivery{
+  text-decoration: underline;
+  font-weight: 600;
+}

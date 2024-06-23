@@ -1,0 +1,160 @@
+p{
+  margin: 0px;
+  font-family: kanit;
+  color: white;
+}
+
+body{
+  background-color: rgb(128, 128, 128);
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+
+a:hover{
+  opacity: 0.5;
+}
+
+a:active{
+  color: white;
+}
+
+button{
+  font-family: kanit;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.Logo{
+  margin-top: 50px;
+  margin-left: 100px;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.Sub-logo2{
+  margin-left: 95px;
+  font-style: italic;
+  margin-top: -15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.Header{
+  margin-top: -45px;
+  margin-left: 300px;
+}
+
+.home{
+  cursor: pointer;
+}
+
+.news{
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.characters{
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.scenes{
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.media{
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.hoyolab{
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.music{
+  margin-left: 550px;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.login{
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+.title{
+  margin-top: 200px;
+  margin-left: 100px;
+  font-size: 65px;
+  font-weight: 600;
+}
+
+.description{
+  margin-left: 100px;
+  width: 800px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.download{
+  margin-left: 100px;
+  margin-top: 15px;
+  padding: 8px 12px;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: rgb(80, 80, 80);
+  border-color: rgb(80, 80, 80);
+  color: white;
+  cursor: pointer;
+  border-width: 2px;
+  transition: background-color 0.15s, border-color 0.15s, padding 0.15s;
+}
+
+.download:hover{
+  background-color: rgb(128, 128, 128);
+  border-color: white;
+  padding: 8px 20px;
+}
+
+.download:active{
+  opacity: 0.7;
+}
+
+.website{
+  margin-left: 3px;
+  padding: 8px 12px;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: rgb(128, 128, 128);
+  border-color: white;
+  color: white;
+  cursor: pointer;
+  border-width: 2px;
+  transition: background-color 0.15s, border-color 0.15s, padding 0.15s;
+}
+
+.website:hover{
+  background-color: rgb(80, 80, 80);
+  border-color: rgb(80, 80, 80);
+  padding: 8px 20px;
+}
+
+.footer{
+  margin-left:100px;
+  margin-top: 200px;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.footer2{
+  margin-left: 680px;
+}
